@@ -6,7 +6,7 @@ getCurrent	KEYWORD2
 getFPS	KEYWORD2
 getFreeRAM	KEYWORD2
 begin	KEYWORD2
-setIntRef KEYWORD2
+setIntRef	KEYWORD2
 setBacklight	KEYWORD2
 setRSense	KEYWORD2
 setRIout	KEYWORD2
@@ -17,5 +17,5 @@ printVCC	KEYWORD2
 printCurrent	KEYWORD2
 getPower	KEYWORD2
 update	KEYWORD2
-print1kdecimal  KEYWORD2
+print1kdecimal	KEYWORD2
 
